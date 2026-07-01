@@ -43,6 +43,9 @@ This is a full analytics lifecycle: clean messy operational data, diagnose a pro
 ![Priority retention group](priority_retention_group.png)
 *High-performing but dissatisfied employees, the priority group for targeted retention.*
 
+![KNIME predictive workflow](knime_workflow.png)
+*The KNIME pipeline: data import, feature selection, stratified partitioning, Decision Tree and Random Forest learners, and ROC evaluation.*
+
 ## Repository contents
 
 | File | Description |
@@ -50,6 +53,7 @@ This is a full analytics lifecycle: clean messy operational data, diagnose a pro
 | `HR_Attrition_Analytics_Report.pdf` | Full report: methodology, diagnosis, predictive modelling, and recommendations |
 | `HR_Tableau_Storyboard.pdf` | The full Tableau storyboard of dashboards |
 | `age_gender_pyramid.png` / `pay_gap_by_role.png` / `priority_retention_group.png` | Key dashboard visuals |
+| `knime_workflow.png` | Screenshot of the KNIME predictive pipeline |
 
 ## Notes on data and reproducibility
 
